@@ -1,0 +1,15 @@
+Exp 8:Mutual Exclusion/Deadlock Detection.
+Paste the folder in the PC and cd to the folder
+
+open running_demo.PNG
+
+open 4 terminals as seen in the image
+
+in all 4 terminals run:-> java -jar suzuki_kasami.jar
+
+enter number from 1 to 4 in each terminal and press enter once
+
+After entering numbers on all 4 terminals. Again press enter on Terminal 1
+
+
+All the Best For Your Vivas!!!!!

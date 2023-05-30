@@ -1,0 +1,15 @@
+Exp 3:Remote Method Invocation.
+Paste the folder in the PC and cd to the folder
+
+javac *.java
+
+rmiregistry & (for Linux) 
+start rmiregistry (for Windows)
+
+java Server
+
+java Client 10 40
+
+java Client 124 654
+
+All the Best For Your Vivas!!!!!

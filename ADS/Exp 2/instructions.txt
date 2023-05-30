@@ -1,0 +1,15 @@
+Exp 2:Data Exploration
+Paste the folder in the PC
+
+Press Start button and select anaconda prompt
+
+cd to the current folder
+
+paste the command:
+jupyter notebook
+
+open the ADS_EXP_2.ipynb file in Jupyter Notebooks
+
+Run all cells
+
+All the Best For Your Vivas!!!!!

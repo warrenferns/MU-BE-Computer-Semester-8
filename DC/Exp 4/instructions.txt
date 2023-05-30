@@ -1,0 +1,16 @@
+Exp 4:Message Queuing System.
+Paste the folder in the PC and cd to the folder
+
+npm init
+
+docker run --name rabbitmq -p 5672:5672 rabbitmq
+
+npm run publish 10
+npm run publish 20
+npm run publish 35
+npm run publish 22
+
+node consume
+node consume
+
+All the Best For Your Vivas!!!!!

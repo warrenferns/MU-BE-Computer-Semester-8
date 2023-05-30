@@ -1,0 +1,20 @@
+Exp 5:Group Communication.
+Paste the folder in the PC and cd to the folder
+
+javac *.java
+
+Single Client Server Communication
+java GossipServer
+
+java GossipClient
+
+Multiple Client Server Communication
+java Server
+
+java Master
+
+java Slave
+
+java Slave
+
+All the Best For Your Vivas!!!!!

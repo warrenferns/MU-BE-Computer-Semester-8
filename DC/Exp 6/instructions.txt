@@ -1,0 +1,6 @@
+Exp 6:Lamport Algorithm.
+Paste the folder in the PC and cd to the folder
+
+python lamport.py
+
+All the Best For Your Vivas!!!!!

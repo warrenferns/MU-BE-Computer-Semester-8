@@ -1,0 +1,8 @@
+Exp 1:Client-Server.
+Paste the folder in the PC and cd to the folder
+
+python server.py
+
+python client.py
+
+All the Best For Your Vivas!!!!!

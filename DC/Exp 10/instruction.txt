@@ -1,0 +1,36 @@
+Experiment 10: HDFS and Map Reduce.
+Paste the folder in the PC and cd to the folder
+
+For HDFS
+1. Copy File to HDFS
+hdfs dfs -put <local-file-path> <hdfs-destination-path>
+hdfs dfs -put example.txt /user/hadoop/input
+
+2. Copy File from HDFS
+hdfs dfs -get <hdfs-file-path> <local-destination-path>
+hdfs dfs -get /user/hadoop/output/example.txt /home/hadoop/output
+
+3. Delete a File
+hdfs dfs -rm <hdfs-file-path>
+hdfs dfs -rm /user/hadoop/input/example.txt
+
+4. Move File to other location
+hdfs dfs -mv <hdfs-source-path> <hdfs-destination-path>
+hdfs dfs -mv /user/hadoop/input/example.txt /user/hadoop/output
+
+5. Display a File
+hdfs dfs -cat <hdfs-file-path>
+hdfs dfs -cat /user/hadoop/output/example.txt
+
+6. List the directory contents
+hdfs dfs -ls <hdfs-directory-path>
+hdfs dfs -ls /user/hadoop/input
+
+7. Make a directory
+hdfs dfs -mkdir <hdfs-directory-path>
+hdfs dfs -mkdir /user/hadoop/output
+
+For MapReduce
+cat word_count_data.txt | python mapper.py | sort -k1,1 | python reducer.py
+
+All the Best For Your Vivas!!!!!

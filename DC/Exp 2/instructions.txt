@@ -1,0 +1,16 @@
+Exp2: Remote Procedure Call.
+Paste the folder in the PC and cd to the folder
+
+open terminal
+
+javac *.java
+
+java server
+
+open another terminal
+
+java cli
+
+give optional inputs as necessary
+
+All the Best For Your Vivas!!!!!
